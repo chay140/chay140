@@ -8,7 +8,7 @@
 * Python, C, C++, Java와 이미 친해요
 
 ## Tech Skills💪 
-| ![Chay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chay140&show_icons=true&theme=transparent&hide=stars,issues&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chay140&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Chay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chay140&show_icons=true&theme=transparent&hide=stars,issues&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chay140&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 ### 🧑‍💻Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
