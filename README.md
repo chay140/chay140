@@ -7,6 +7,7 @@
 * React, Next 프로젝트를 열심히 배우고 있어요
 * Python, C, C++, Java와 이미 친해요
 
+
 ## Tech Skills💪 
 | [![Chay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chay140&show_icons=true&theme=transparent&hide=stars,issues&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chay140&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
@@ -57,4 +58,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+제발 되라ㅏㅏㅏ 
 -->
