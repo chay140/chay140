@@ -35,11 +35,13 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ## ✨ Contributions
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/chay140"
   width="600"
   height="300"
 />
+</a>
 
 
 <!--
