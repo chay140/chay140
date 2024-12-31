@@ -39,12 +39,14 @@
 ## Projects 
 ### Team
 **BonFire** (부트캠프 프로젝트) [프론트앤드 5명]
+
 2024.12.20(금) ~ 2024.12.30(월)
 * 날씨 데이터를 기반으로 캠핑 장소를 추천하고, 사용자 리뷰와 편의시설 정보를 제공하는 플랫폼
 * 배포 링크: https://bonfire-eight.vercel.app/
 * GitHub 링크: https://github.com/ahh0619/bonfire
 
 **FocusSpot** (부트캠프 프로젝트) [프론트엔드 5명]
+
 2024.11.29(금) ~ 2024.12.5(목)
 * 카페, 스터디 카페, 도서관 등 다양한 학습 공간을 탐색하고 북마크할 수 있는 플랫폼
 * 배포 링크: https://focus-spot.vercel.app/
