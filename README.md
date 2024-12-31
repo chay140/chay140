@@ -16,10 +16,6 @@
 - Python, C, C++, Java와 이미 친해요
 
 ## Tech Skills💪
-
-| [![Chay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chay140&show_icons=true&theme=transparent&hide=stars,issues&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chay140&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 ### 🧑‍💻Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts,js,html,css&theme=dark)](https://skillicons.dev)
