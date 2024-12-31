@@ -64,17 +64,9 @@
 ### 외국어
 영어 - 일상 회화 가능
 
-## ✨ Contributions
+### 개발 블로그
+<a href="https://velog.io/@chay140/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Apache&logoColor=black"/>
 
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/chay140"
-      width="600"
-      height="300"
-    />
-  </a>
-</div>
 
 <!--
 **chay140/chay140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
