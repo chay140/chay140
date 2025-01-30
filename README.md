@@ -85,6 +85,14 @@ TanStack Query, Zustand 등 다양한 상태 관리 기술을 다루며 사용�
 
 ## Projects 
 ### Team
+**FitFor** (부트캠프 프로젝트) [프론트앤드 4명, UI/UX 디자이너 2명]
+
+2024.12.31(화) ~ 현재 진행 중
+* Fit4는 패션 레퍼런스 허브와 커뮤니티의 장점을 결합한 플랫폼으로,
+자신의 스타일을 공유하고, 타인의 룩북을 레퍼런스로 찾을 수 있도록 돕는 서비스입니다.
+* 배포 링크: [FitFor](https://fit4.vercel.app/)
+* GitHub 링크: [FitFor Repository](https://github.com/yangsunghun/FitFor)
+
 **BonFire** (부트캠프 프로젝트) [프론트앤드 5명]
 
 2024.12.20(금) ~ 2024.12.30(월)
