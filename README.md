@@ -5,9 +5,10 @@
 
 ## About me
 
-- 🌱 새내기 프론트엔드 개발자입니다
-- React, Next 프로젝트를 열심히 배우고 있어요
+- 🌱 새내기 개발자입니다
+- React, Next.js 다룰 줄 알아요!
 - Python, C, C++, Java와 이미 친해요
+- Express.JS, Node.JS, Spring을 배우고 있습니다!
 
 ## Tech Skills💪
 
@@ -18,17 +19,21 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
+### 🧑‍💻Backend
+
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,python,java&theme=dark)](https://skillicons.dev)
+
 ### 🎨 Styling Tools
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Database
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,firebase&theme=dark)](https://skillicons.dev)
 
 ### 💻 Other Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,r&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,r&theme=dark)](https://skillicons.dev)
 
 ## ✨ Contributions
 
