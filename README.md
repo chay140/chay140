@@ -10,6 +10,7 @@
 - React, Next.js 다룰 줄 알아요!
 - Python, C, C++, Java와 이미 친해요
 - Express.JS, Node.JS, Spring을 배우고 있습니다!
+- Portfolio: www.chaypark.com
 
 ## Tech Skills💪
 
