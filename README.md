@@ -42,9 +42,9 @@
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/farms/chay140"
+      src="https://render.gitanimals.org/lines/chay140?pet-id=669093392637290670"
       width="600"
-      height="300"
+      height="120"
     />
   </a>
 </div>
