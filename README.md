@@ -6,6 +6,7 @@
 ## About me
 
 - **Purdue University, Computer Science BS - Class of 2023**
+- AI Research Engineer, Intern @Deeply
 - Mathmatics 부전공
 - React, Next.js 다룰 줄 알아요!
 - Python, C, C++, Java와 이미 친해요
